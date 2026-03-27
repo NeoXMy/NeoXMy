@@ -37,11 +37,3 @@
 * 🛡️ **Architecture de Supervision** : Déploiement de serveurs de monitoring (Zabbix/SNMP) pour la remontée d'alertes en temps réel.
 * ⚙️ **Scripts d'Automatisation** : Création de routines (Bash/Lua) pour le déploiement de configurations et la maintenance de parcs.
 * 💻 **Outils Web Internes** : Développement d'interfaces de gestion légères (PHP/CSS) pour faciliter l'administration quotidienne.
-
----
-
-### 🎯 Actuellement & Objectifs
-
-* 🔭 **En cours d'apprentissage :** Approfondissement de l'Infrastructure as Code (Ansible) et de la conteneurisation.
-* 🌱 **Objectif à court terme :** Valider mon BTS SIO et poursuivre vers une spécialisation en Cybersécurité / Systèmes et Réseaux.
-* ⚡ **Centres d'intérêt :** Homelab, veille technologique, NetDevOps.
