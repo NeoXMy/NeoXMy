@@ -1,35 +1,48 @@
-# 👨‍💻 System Administrator & Automation Enthusiast
-**BTS SIO SISR Student | Focused on Infrastructure as Code & Network Monitoring**
+<div align="center">
+  <h1>👋 Bonjour, je suis NeoXMy</h1>
+  <h3>System Administrator | Network Automation | Web Developer</h3>
+  <p><i>"Simplifier l'infrastructure par le code et l'automatisation."</i></p>
+</div>
 
 ---
 
-### 🛠️ Stack Technique
+### 👨‍💻 À propos de moi
 
-| **Infrastructure & Ops** | **Développement & Scripting** |
-| :--- | :--- |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) |
-| ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+Étudiant en fin de **BTS SIO (SISR)**, je me spécialise dans la gestion d'infrastructures et la création d'outils sur mesure. Mon profil se situe à la croisée des chemins entre l'**Administration Système** et la culture **DevOps**. 
 
----
-
-### 🚀 Projets & Réalisations (BTS SIO)
-
-* **⚡ Network Automation** : Développement de scripts de gestion de parc et automatisation de tâches récurrentes via Bash et Lua.
-* **📊 Zabbix Monitoring Solution** : Mise en œuvre d'une architecture de supervision centralisée avec alertes SNMP et monitoring d'agents distants.
-* **🌐 Web Tooling** : Conception d'outils web légers en PHP pour l'interfaçage avec des bases de données de gestion de parc.
+* 🎯 **Focus actuel :** Supervision (Zabbix), Automatisation (Bash/Lua), et Cybersécurité.
+* 💡 **Objectif :** Concevoir des réseaux résilients et automatiser les tâches chronophages.
+* 🌍 **Localisation :** France 🇫🇷
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=NeoXMy&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de NeoXMy" />
-</p>
+### 🛠️ Mes Technologies
+
+<div align="center">
+  <p><strong>Systèmes & Réseaux</strong></p>
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows&theme=dark" alt="OS" />
+  <br><br>
+  <p><strong>Développement & Scripting</strong></p>
+  <img src="https://skillicons.dev/icons?i=bash,lua,php,js,css,html&theme=dark" alt="Dev" />
+  <br><br>
+  <p><strong>Outils & Ops</strong></p>
+  <img src="https://skillicons.dev/icons?i=docker,git,vscode&theme=dark" alt="Tools" />
+</div>
+
+> *Note : J'utilise activement **Zabbix** pour la supervision globale de l'infrastructure et **Kali Linux** pour l'audit et la sécurité.*
 
 ---
 
-### 🤝 Contact
-* **Localisation** : France 🇫🇷
-* **Statut** : En recherche de spécialisation en Cybersécurité / Cloud.
+### 🚀 Projets de BTS
 
-> *"L'automatisation n'est pas un luxe, c'est une nécessité de sécurité."*
+* 🛡️ **Architecture de Supervision** : Déploiement de serveurs de monitoring (Zabbix/SNMP) pour la remontée d'alertes en temps réel.
+* ⚙️ **Scripts d'Automatisation** : Création de routines (Bash/Lua) pour le déploiement de configurations et la maintenance de parcs.
+* 💻 **Outils Web Internes** : Développement d'interfaces de gestion légères (PHP/CSS) pour faciliter l'administration quotidienne.
+
+---
+
+### 📊 Mon Activité
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeoXMy&theme=transparent&hide_border=true&show_icons=true&locale=fr&title_color=1572B6" alt="GitHub Stats" />
+</div>
