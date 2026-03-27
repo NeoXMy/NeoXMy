@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Salut, moi c'est NeoXMy ! 
+### **Étudiant en BTS SIO SISR | Futur Administrateur Système & Réseau**
 
-<!--
-**NeoXMy/NeoXMy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionné par l'infrastructure, j'allie mes compétences en administration système avec le développement (PHP, Lua, CSS) pour automatiser et superviser des parcs informatiques.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Expertise Technique
+* **Systèmes :** Linux (Ubuntu/Debian/Kali), Windows Server.
+* **Réseaux & Supervision :** Monitoring avec **Checkmk**, Sécurité réseau.
+* **Code & Scripting :** PHP (Web), Lua (Automation), Bash, CSS.
+* **Méthodologie :** Git, Virtualisation, Documentation technique.
+
+### 📁 Projets Phares
+* **Supervision de parc** : Déploiement d'une solution Checkmk sur serveur Ubuntu (10.10.255.105).
+* **Scripts d'admin** : Création d'outils d'automatisation pour la gestion des utilisateurs et des backups.
+* **Calculatrice Web** : Développement d'une interface de calcul fonctionnelle.
+
+### 🌐 Me trouver
+* **Localisation :** Charleville-Mézières, France 🇫🇷
+* **Objectif :** Poursuite d'études ou insertion professionnelle en tant qu'Administrateur junior.
