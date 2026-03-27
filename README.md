@@ -10,9 +10,8 @@
 
 Étudiant en fin de **BTS SIO (SISR)**, je me spécialise dans la gestion d'infrastructures et la création d'outils sur mesure. Mon profil se situe à la croisée des chemins entre l'**Administration Système** et la culture **DevOps**. 
 
-* 🎯 **Focus actuel :** Supervision (Zabbix), Automatisation (Bash/Lua), et Cybersécurité.
-* 💡 **Objectif :** Concevoir des réseaux résilients et automatiser les tâches chronophages.
 * 🌍 **Localisation :** France 🇫🇷
+* 💡 **Mindset :** Si une tâche doit être faite plus de deux fois, elle mérite un script.
 
 ---
 
@@ -41,8 +40,8 @@
 
 ---
 
-### 📊 Mon Activité
+### 🎯 Actuellement & Objectifs
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeoXMy&theme=transparent&hide_border=true&show_icons=true&locale=fr&title_color=1572B6" alt="GitHub Stats" />
-</div>
+* 🔭 **En cours d'apprentissage :** Approfondissement de l'Infrastructure as Code (Ansible) et de la conteneurisation.
+* 🌱 **Objectif à court terme :** Valider mon BTS SIO et poursuivre vers une spécialisation en Cybersécurité / Systèmes et Réseaux.
+* ⚡ **Centres d'intérêt :** Homelab, veille technologique, NetDevOps.
