@@ -26,7 +26,7 @@
 <div align="center">
 
 ### 📊 GitHub Stats
-<img src="https://streak-stats.demolab.com?user=NeoXMy&theme=tokyonight&hide_border=true" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeoXMy&theme=tokyonight" height="150" />
+<img src="https://streak-stats.demolab.com?user=NeoXMy&theme=tokyonight&hide_border=true" height="130" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeoXMy&theme=tokyonight" height="130" />
 
 </div>
